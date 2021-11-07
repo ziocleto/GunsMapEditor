@@ -1,6 +1,8 @@
 Middle Mouse = Open edit mode
 Middle Mouse again = Place mesh or Deathsphere
 
+N = Exit map edit mode
+
 Q and E = Cycle through meshes
 RMB = Deathsphere
 
