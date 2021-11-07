@@ -1,0 +1,17 @@
+Middle Mouse = Open edit mode
+Middle Mouse again = Place mesh or Deathsphere
+
+Q and E = Cycle through meshes
+RMB = Deathsphere
+
+Scroll wheel = Distance from player
+
+Scroll wheel + Shift = Change width
+Scroll wheel + Shift + LMB = Change height scaling
+Scroll wheel + Shift + RMB = Change depth
+
+Scroll wheel + Left Control = Change height location
+
+Scroll wheel + Left Alt = Rotate on Yaw
+Scroll wheel + Left Alt + LMB = Rotate on Roll
+Scroll wheel + Left Alt + RMB = Rotate on Pitch
