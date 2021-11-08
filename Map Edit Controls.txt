@@ -1,12 +1,10 @@
-Middle Mouse = Open edit mode
-Middle Mouse again = Place mesh or Deathsphere
+Keyboard and mouse controls:
 
-N = Exit map edit mode
+Middle Mouse = Open/Exit edit mode
+LMB = Place mesh or Deathsphere
 
 Q and E = Cycle through meshes
 RMB = Summon Deathsphere
-
-Mouse up/down = Distance from player
 
 Mouse up/down + Shift = Change uniform scale
 Mouse up/down + Shift + LMB = Change height scaling
@@ -20,3 +18,26 @@ Mouse up/down + Left Control = Change distance from player
 Mouse up/down + Left Alt + LMB = Change pitch rotation
 Mouse up/down + Left Alt + RMB = Change roll rotation
 Mouse up/down + Left Alt + LMB + RMB = Change yaw rotation
+
+
+
+Gamepad controls:
+
+Back button = Open/Exit edit mode
+Right thumbstick press = Place mesh or Deathsphere
+
+Left and right D-pad = Cycle through meshes
+Face button right = Summon Deathsphere
+
+Right thumbstick up/down + Face button left = Change uniform scale
+Right thumbstick up/down + Face button left + Left trigger = Change height scaling
+Right thumbstick up/down + Face button left + Right trigger = Change depth
+Right thumbstick up/down + Face button left + Both triggers = Change width
+
+Right thumbstick up/down + Left shoulder + Left trigger = Change height location
+Right thumbstick up/down + Left shoulder + Right trigger = Change sideways location
+Right thumbstick up/down + Left shoulder = Change distance from player
+
+Right thumbstick up/down + Right shoulder + Left trigger = Change pitch rotation
+Right thumbstick up/down + Right shoulder + Right trigger = Change roll rotation
+Right thumbstick up/down + Right shoulder + Both triggers = Change yaw rotation
