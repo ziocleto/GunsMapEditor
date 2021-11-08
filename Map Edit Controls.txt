@@ -4,16 +4,19 @@ Middle Mouse again = Place mesh or Deathsphere
 N = Exit map edit mode
 
 Q and E = Cycle through meshes
-RMB = Deathsphere
+RMB = Summon Deathsphere
 
-Scroll wheel = Distance from player
+Mouse up/down = Distance from player
 
-Scroll wheel + Shift = Change width
-Scroll wheel + Shift + LMB = Change height scaling
-Scroll wheel + Shift + RMB = Change depth
+Mouse up/down + Shift = Change uniform scale
+Mouse up/down + Shift + LMB = Change height scaling
+Mouse up/down + Shift + RMB = Change depth
+Mouse up/down + Shift + LMB + RMB = Change width
 
-Scroll wheel + Left Control = Change height location
+Mouse up/down + Left Control + LMB = Change height location
+Mouse up/down + Left Control + RMB = Change sideways location
+Mouse up/down + Left Control = Change distance from player
 
-Scroll wheel + Left Alt = Rotate on Yaw
-Scroll wheel + Left Alt + LMB = Rotate on Roll
-Scroll wheel + Left Alt + RMB = Rotate on Pitch
+Mouse up/down + Left Alt + LMB = Change pitch rotation
+Mouse up/down + Left Alt + RMB = Change roll rotation
+Mouse up/down + Left Alt + LMB + RMB = Change yaw rotation
