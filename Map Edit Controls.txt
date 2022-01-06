@@ -6,3 +6,5 @@ Scroll wheel to rotate hologram
 Left ALT + Scroll wheel to rotate on alternate angle
 Left ALT + Mouse to change scale
 Left Ctrl to enter precision mode
+1 = Save/Load
+2 = Delete Save
